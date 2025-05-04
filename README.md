@@ -14,6 +14,7 @@ Wofi,
 waybar,
 kitty
 and maybe (idk) the hyprland ecosystem. For the ecosystem i installed hyprpaper, hyprcursor, hyprlock and hypridle.
+To install the cursors, you just need to drag and drop the .icons folder in your home folder (~)
 
 Hope you like it!
 
