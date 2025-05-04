@@ -14,8 +14,11 @@ Wofi,
 waybar,
 kitty
 and maybe (idk) the hyprland ecosystem. For the ecosystem i installed hyprpaper, hyprcursor, hyprlock and hypridle.
-To install the cursors, you just need to drag and drop the .icons folder in your home folder (~)
-Just like the cursor you need to install the .bashrc file :)
+
+To install the cursors, unzip the icons.zip file, rename the folder to .icons (may be hidden after this) and put the .icons folder in the home folder.
+
+The .bashrc files just needs to go in the home folder.
+
 Hope you like it!
 
 Also, I changed the fastfetch to Arch and in starship, I changed the logo from EndeavourOS to Arch. 
